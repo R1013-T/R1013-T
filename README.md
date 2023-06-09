@@ -32,7 +32,7 @@
       height="40"
     />
   </a>
-
+<!--  
 #### Frontend Development
 
 <p>
@@ -295,3 +295,4 @@
     />
   </a>
 </p>
+-->
