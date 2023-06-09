@@ -1,14 +1,14 @@
-<!-- <p align="center">
+<p align="center">
   <img height="230px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R1013-T&theme=transparent&title_color=a3b0b8" />
-</p> -->
+</p>
 
 <p align="center"> 
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1013-T&layout=donut&show_icons=true&theme=transparent&hide_border=true&title_color=d7e6ef&text_color=a3b0b8" />
-  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=R1013-T&theme=transparent&show_icons=true&custom_title=Stats&hide_border=true&title_color=d7e6ef&text_color=a3b0b8&text_bold=false&include_all_commits=true&ring_color=fb79c6&icon_color=fb79c6" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=R1013-T&theme=transparent&show_icons=true&custom_title=Stats&hide_border=true&title_color=d7e6ef&text_color=a3b0b8&text_bold=false&include_all_commits=true&ring_color=236feb&icon_color=236feb" />
 </p>
 
 <p align="center">
-  <img height="110px" src="https://github-profile-trophy.vercel.app/?username=R1013-T&theme=darkhub&margin-w=15&margin-h=15&no-bg=true&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy" />
+  <img height="110px" src="https://github-profile-trophy.vercel.app/?username=R1013-T&theme=dark_dimmed&margin-w=15&margin-h=15&no-bg=true&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy" />
 </p>
 
 <!--  
