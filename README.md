@@ -6,7 +6,7 @@
 
 <p align="center"> 
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1013-T&layout=donut&show_icons=true&theme=transparent&hide_border=true&title_color=d7e6ef&text_color=407e87" />
-  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=R1013-T&theme=transparent&show_icons=true&custom_title=GitHub&nbsp;Stats&hide_border=true&title_color=d7e6ef&text_color=407e87&text_bold=false&include_all_commits=true&ring_color=236feb&icon_color=236feb" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=R1013-T&theme=transparent&show_icons=true&custom_title=GitHub&nbsp;Stats&hide_border=true&title_color=d7e6ef&text_color=407e87&text_bold=false&include_all_commits=true&ring_color=236feb&icon_color=0679c2" />
 </p>
 
 <!-- <p align="center">
