@@ -7,7 +7,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=R1013-T&theme=darkhub&margin-w=15&margin-h=15&no-bg=true&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--  
-
 #### Mainly used
 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
