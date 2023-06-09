@@ -1,10 +1,15 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R1013-T&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=R1013-T&theme=transparent)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=R1013-T&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=R1013-T&theme=transparent)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=R1013-T&theme=transparent)
+<p align="center">
+  <img height="230px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R1013-T&theme=transparent" />
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R1013-T&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> 
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1013-T&layout=donut&show_icons=true&theme=transparent&hide_border=true" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=R1013-T&theme=transparent&show_icons=ture&custom_title=Stats&hide_border=true" />
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=R1013-T&theme=darkhub&margin-w=15&margin-h=15&no-bg=true&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img height="110px" src="https://github-profile-trophy.vercel.app/?username=R1013-T&theme=darkhub&margin-w=15&margin-h=15&no-bg=true&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy" />
+</p>
 
 <!--  
 #### Mainly used
