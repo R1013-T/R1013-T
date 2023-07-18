@@ -1,4 +1,4 @@
-## Hi 👋, I'm a student frontend engineer 🔰. 
+## Hi 👋, I'm a student engineer 🔰. 
 
 <p align="center">
   <img height="230px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R1013-T&theme=transparent&title_color=a3b0b8" />
