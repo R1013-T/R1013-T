@@ -2,7 +2,7 @@
 
 [![Front End](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,astro,threejs,apollo)](https://skillicons.dev)
 
-[![Back End](https://skillicons.dev/icons?i=ruby,rails,go,graphql,firebase,supabase)](https://skillicons.dev)
+[![Back End](https://skillicons.dev/icons?i=rails,go,graphql,firebase,supabase)](https://skillicons.dev)
 
 [![Tools](https://skillicons.dev/icons?i=idea,github,docker,figma,ai,ps,md)](https://skillicons.dev)
 
