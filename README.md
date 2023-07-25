@@ -1,5 +1,12 @@
 ## Hi 👋, I'm a student engineer 🔰. 
 
+[![Front End](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,astro,threejs,apollo)](https://skillicons.dev)
+
+[![Back End](https://skillicons.dev/icons?i=ruby,rails,go,graphql,firebase,supabase)](https://skillicons.dev)
+
+[![Tools](https://skillicons.dev/icons?i=idea,github,docker,figma,ai,ps,md)](https://skillicons.dev)
+
+
 <p align="center">
   <img height="230px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R1013-T&theme=transparent&title_color=a3b0b8" />
 </p>
