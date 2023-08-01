@@ -1,6 +1,6 @@
 # Hi 👋, I'm a student engineer 🔰. 
 
-I'm currently learning front-end and back-end technologies and working on several projects. I'm passionate about creating efficient and innovative solutions that can help solve real-world problems. 🚀
+I'm an IT student specializing in the field of web development. I have a keen interest in both front-end and back-end development. 🚀
 
 ## 🥰 Technologies
 
