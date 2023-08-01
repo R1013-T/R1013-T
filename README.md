@@ -15,9 +15,9 @@ I'm an IT student specializing in the field of web development. I have a keen in
 
 ## 🤩 Currently Learning
 
-- 🎓 My main focus currently is on [Next.js](https://nextjs.org/) and [Go](https://golang.org/).
-- 🕸️ I'm also exploring the domain of Web 3.0.
-- 🤝 Gaining more experience in team development.
+- 🎓　My main focus currently is on [Next.js](https://nextjs.org/) and [Go](https://golang.org/).
+- 🕸️　I'm also exploring the domain of Web 3.0.
+- 🤝　Gaining more experience in team development.
 - ☁️ Curious about cloud services and interested in exploring web applications development using AI services provided by [Azure](https://azure.microsoft.com/).
 
 
@@ -30,7 +30,7 @@ I'm an IT student specializing in the field of web development. I have a keen in
 
 ## 😎 Hobbies
 
-- 🌍 I love travelling and exploring new places. Each journey brings me new perspectives and experiences.
-- 🛍️ Shopping is another hobby I enjoy, as it allows me to stay updated with the latest trends and technology.
-- 📚 I'm fond of reading books. However, they seem to double as a sleeping aid, as I often find myself drifting off mid-chapter!
-- 🏂 When it's winter, you can often find me snowboarding. The thrill and excitement of this sport keep me looking forward to every winter season.
+- 🌍　I love travelling and exploring new places. Each journey brings me new perspectives and experiences.
+- 🛍️　Shopping is another hobby I enjoy, as it allows me to stay updated with the latest trends and technology.
+- 📚　I'm fond of reading books. However, they seem to double as a sleeping aid, as I often find myself drifting off mid-chapter!
+- 🏂　When it's winter, you can often find me snowboarding. The thrill and excitement of this sport keep me looking forward to every winter season.
