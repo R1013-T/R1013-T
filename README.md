@@ -1,5 +1,7 @@
 # Hi 👋, I'm a student engineer 🔰. 
 
+## I gotta do what I think I can't.
+
 I'm an IT student specializing in the field of web development. I have a keen interest in both front-end and back-end development. 🚀
 
 ## 🥰 Technologies
