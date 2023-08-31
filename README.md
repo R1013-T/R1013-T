@@ -42,6 +42,7 @@ My fascination lies heavily in the intricate workings of the web. From front-end
 
 <details>
 <summary><h2>😎 Hobbies</h2></summary>
+  
 ### Valuing Private Time as a Gateway for Learning 📚
 
 I believe that our hobbies and how we spend our private time can significantly contribute to our learning journey. The experiences I gain from travelling or the perspectives I acquire from a good read often provide invaluable insights that enhance my understanding and approach to development.
