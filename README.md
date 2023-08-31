@@ -4,8 +4,9 @@
 
 I'm an IT student specializing in the field of web development. I have a keen interest in both front-end and back-end development. 🚀
 
-## 🥰 Technologies
-
+<details>
+<summary><h2>🥰 Technologies</h2></summary>
+  
 ### 🎨 Frontend Skills
 [![Front End](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,astro,threejs,apollo)](https://skillicons.dev)
 
@@ -15,7 +16,9 @@ I'm an IT student specializing in the field of web development. I have a keen in
 ### 🛠️ Tools & Services
 [![Tools](https://skillicons.dev/icons?i=idea,github,docker,figma,ai,ps,md)](https://skillicons.dev)
 
-## 🤩 Currently Learning
+</details>
+<details>
+<summary><h2>🤩 Currently Learning</h2></summary>
 
 ### Navigating the Intricacies of the Web 🕸️
 
@@ -25,17 +28,20 @@ My fascination lies heavily in the intricate workings of the web. From front-end
 - 🕸️ I'm also exploring the domain of Web 3.0.
 - 🤝 Gaining more experience in team development.
 - ☁️ Curious about cloud services and interested in exploring web applications development using AI services provided by [Azure](https://azure.microsoft.com/).
-
-
-## 🧐 GitHub Stats
+  
+</details>
+<details>
+<summary><h2>🧐 GitHub Stats</h2></summary>
 
 <p align="center"> 
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1013-T&layout=compact&show_icons=true&theme=transparent&hide_border=true&title_color=d7e6ef&text_color=407e87&langs_count=10" />
   <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=R1013-T&theme=transparent&show_icons=true&custom_title=GitHub&nbsp;Stats&hide_border=true&title_color=d7e6ef&text_color=407e87&text_bold=false&include_all_commits=true&ring_color=236feb&icon_color=0679c2" />
 </p>
 
-## 😎 Hobbies
+</details>
 
+<details>
+<summary><h2>😎 Hobbies</h2></summary>
 ### Valuing Private Time as a Gateway for Learning 📚
 
 I believe that our hobbies and how we spend our private time can significantly contribute to our learning journey. The experiences I gain from travelling or the perspectives I acquire from a good read often provide invaluable insights that enhance my understanding and approach to development.
@@ -44,3 +50,5 @@ I believe that our hobbies and how we spend our private time can significantly c
 - 🛍️ Shopping is another hobby I enjoy, as it allows me to stay updated with the latest trends and technology.
 - 📚 I'm fond of reading books. However, they seem to double as a sleeping aid, as I often find myself drifting off mid-chapter!
 - 🏂 When it's winter, you can often find me snowboarding. The thrill and excitement of this sport keep me looking forward to every winter season.
+
+</details>
