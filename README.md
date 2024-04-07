@@ -7,7 +7,7 @@ Web関連の技術全般に興味があります！
   <img width="50" src="https://github.com/R1013-T/R1013-T/blob/main/assets/react.webp" />
   <img width="50" src="https://github.com/R1013-T/R1013-T/blob/main/assets/nextjs.webp" />
   <img width="50" src="https://github.com/R1013-T/R1013-T/blob/main/assets/tailwind.webp" />
-  <img width="50" src="https://github.com/R1013-T/R1013-T/blob/main/assets/shadcnui.webp?v=1" />
+  <img width="50" src="https://github.com/R1013-T/R1013-T/blob/main/assets/shadcnui.webp" />
   <img width="50" src="https://github.com/R1013-T/R1013-T/blob/main/assets/python.webp" />
   <img width="50" src="https://github.com/R1013-T/R1013-T/blob/main/assets/fastapi.webp" />
   <img width="50" src="https://github.com/R1013-T/R1013-T/blob/main/assets/go.webp" />
