@@ -1,6 +1,7 @@
 # Hi 👋, I'm a student engineer 🔰. 
-こんにちは、学生エンジニアのRYUです！
-Web関連の技術全般に興味があります！
+こんにちは、なんでもやりたい学生エンジニアのRYUです！
+Web関連の技術全般に興味があります！<br />
+ぜひ[ポートフォリオサイト](https://www.ryu1013.com/ja)で詳しい情報をご覧ください！
 
 <p align="left">
   <img width="50" src="https://github.com/R1013-T/R1013-T/blob/main/assets/typescript.webp" />
